@@ -89,8 +89,14 @@
     margin-top: 20px;
     font-size: 20px;
 }
+.flower-details-link a{
+    color: black;
+}
+.flower-details-link a:hover{
+    color: #E55473;
+}
 
-/*  style  */
+/* shop service section style  */
 .shop-service{
     width: 1080px;
     margin: auto;
@@ -102,6 +108,34 @@
     background-color: rgb(244, 244, 244, 0.7);
     border-radius: 5px;
 }
+/* hot deal section style  */
+.hot-deal-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 150px;
+    margin-top: 100px;
+    background-color: #FDF6F8;
+    height: 85vh;
+}
+.hot-deal-description{
+    text-align: center;
+    /* border: 2px solid black; */
+    /* padding: 100px ; */
+}
+.hot-deal-description h2{
+    font-size: 40px;
+}
+.hot-deal-description p{
+    font-size: 18px;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+.hot-deal-img{
+    height: 420px;
+    width: 318px;
+}
+/*  style  */
 /*  style  */
 /*  style  */
 
