@@ -154,7 +154,45 @@
     margin: auto;
     border-radius: 5px;
 }
-/*  style  */
+
+/* get latest deal section style  */
+.get-latest-deal{
+    height: 300px;
+    width: 1080px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../assets/Rectangle\ 9.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.latest-deal-description{
+    text-align: center;
+}
+.latest-deal-description h2{
+    font-size: 40px;
+}
+.latest-deal-description p{
+    font-size: 18px;
+}
+.subscribe-area{
+    margin-top: 32px;
+}
+.subscribe-area input{
+    width: 300px;
+}
+.subscribe-area input, button{
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: none;
+    font-weight: 700;
+    margin: 0 5px;
+}
 /*  style  */
 
 
