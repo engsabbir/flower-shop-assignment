@@ -57,10 +57,11 @@
 .featured-flower-container{
     display: flex;
     justify-content: space-between;
+    margin-top: 40px;
 }
 
 .featured-flower{
-    width: 32%;
+    width: 30%;
 }
 .featured-flower-img{
     background-color: #F2DEE8;
@@ -90,6 +91,17 @@
 }
 
 /*  style  */
+.shop-service{
+    width: 1080px;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+    text-align: center;
+    background-color: rgb(244, 244, 244, 0.7);
+    border-radius: 5px;
+}
 /*  style  */
 /*  style  */
 
