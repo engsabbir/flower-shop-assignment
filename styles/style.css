@@ -26,6 +26,9 @@ p{
     font-weight: 700;
     cursor: pointer;
 }
+.btn-primary:hover{
+    background-color: #E21717;
+}
 
 /*header section style  */
 .banner{
@@ -216,6 +219,9 @@ p{
 .payment-info{
     text-align: right;
     padding-left: 20px;
+}
+.payment-info p{
+    margin: 10px 0;
 }
 
 /* footer style  */
