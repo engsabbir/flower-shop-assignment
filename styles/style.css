@@ -72,7 +72,6 @@ p{
     justify-content: space-between;
     margin-top: 40px;
 }
-
 .featured-flower{
     width: 30%;
 }
@@ -120,6 +119,7 @@ p{
     background-color: rgb(244, 244, 244, 0.7);
     border-radius: 5px;
 }
+
 /* hot deal section style  */
 .hot-deal-section{
     display: flex;
@@ -194,6 +194,7 @@ p{
     font-weight: 700;
     margin: 0 5px;
 }
+
 /* payment section style  */
 .payment-section{
     width: 1080px;
@@ -216,7 +217,6 @@ p{
     text-align: right;
     padding-left: 20px;
 }
-
 
 /* footer style  */
 footer{
